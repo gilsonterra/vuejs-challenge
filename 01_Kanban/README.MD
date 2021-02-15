@@ -1,4 +1,35 @@
-# Desafio kanban
+# Gilson Terra - Kanban
+
+# Apresentação
+
+Para esse projeto foram utilizados as seguintes tecnologias:
+
+- VueJs
+- Nuxt
+- Typescript
+
+# Demonstração e Test
+
+![Demonstração](./static/demo.gif)
+
+![Teste](./static/test.gif)
+
+# Comandos
+
+```bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
+```
 
 ## Objetivo
 
@@ -32,3 +63,4 @@ Os cards devem exibir:
 ## Disclaimer
 
 O código fonte que você produzir será utilizado somente para avaliar sua aptidão para a vaga. Não será feito nenhum uso comercial do código fonte, tampouco haverá a exigência de direitos de atribuição.
+
